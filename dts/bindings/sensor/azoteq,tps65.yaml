@@ -60,7 +60,6 @@ properties:
 
   gesture-enable:
     type: boolean
-    default: true
     description: Enable gesture recognition (swipes, taps, zoom, scroll)
 
   max-touches:
@@ -78,4 +77,4 @@ properties:
   i2c-timeout-ms:
     type: int
     default: 10
-    description: I2C communication timeout in milliseconds 
+    description: I2C communication timeout in milliseconds
